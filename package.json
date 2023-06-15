@@ -1,0 +1,12 @@
+{
+  "name": "screen-chatter",
+  "version": "1.0.0",
+  "description": "An experiment in if it's possible to make a conversational screen-reader",
+  "scripts": {},
+  "keywords": [],
+  "author": "Jason O'Neil",
+  "license": "GPL",
+  "dependencies": {
+    "openai": "^3.3.0"
+  }
+}
